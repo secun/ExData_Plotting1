@@ -28,7 +28,7 @@ and the R program the led to it here:
 https://github.com/secun/ExData_Plotting1/blob/master/plot3.R
 
 For Question number 4, you can find the plot here:
-https://github.com/secun/ExData_Plotting1/blob/master/figure/plot3.png
+https://github.com/secun/ExData_Plotting1/blob/master/figure/plot4.png
 and the R program the led to it here:
-https://github.com/secun/ExData_Plotting1/blob/master/plot3.R
+https://github.com/secun/ExData_Plotting1/blob/master/plot4.R
 
