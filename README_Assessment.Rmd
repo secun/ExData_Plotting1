@@ -1,0 +1,34 @@
+---
+title: "README (Coursera Alumni)"
+author: "Secundino Sexto"
+date: "Friday, May 08, 2015"
+output: html_document
+---
+
+This is simple document expalining the information you shoudl review as part of the peer-to-peer evaluation process for Coursea.
+
+As you start scannign the code you'll realise that it has been optimised along with the development process od the different exercises, so the approach migh be different on the exercise but the results are according to the quality criteria established by Coursera.
+
+
+For Question number 1, you can find the plot here:
+https://github.com/secun/ExData_Plotting1/blob/master/figure/plot1.png
+and the R program the led to it here:
+https://github.com/secun/ExData_Plotting1/blob/master/plot1.R
+
+
+For Question number 2, you can find the plot here:
+https://github.com/secun/ExData_Plotting1/blob/master/figure/plot2.png
+and the R program the led to it here:
+https://github.com/secun/ExData_Plotting1/blob/master/plot2.R
+Comment: Some challenges were found to adjust the legend of this graphic and not solved, understanding this is a minor criteria in the assessment.
+
+For Question number 3, you can find the plot here:
+https://github.com/secun/ExData_Plotting1/blob/master/figure/plot3.png
+and the R program the led to it here:
+https://github.com/secun/ExData_Plotting1/blob/master/plot3.R
+
+For Question number 4, you can find the plot here:
+https://github.com/secun/ExData_Plotting1/blob/master/figure/plot3.png
+and the R program the led to it here:
+https://github.com/secun/ExData_Plotting1/blob/master/plot3.R
+
